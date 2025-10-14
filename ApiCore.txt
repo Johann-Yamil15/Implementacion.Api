@@ -1,0 +1,300 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es CEB7-A5FA
+C:.
+|   ApiCore.txt
+|   Implementacion.Api.sln
+|   
+\---Implementacion.Api
+    |   appsettings.Development.json
+    |   appsettings.json
+    |   Implementacion.Api.csproj
+    |   Implementacion.Api.csproj.user
+    |   Implementacion.Api.http
+    |   Program.cs
+    |   WeatherForecast.cs
+    |   
+    +---bin
+    |   \---Debug
+    |       \---net9.0
+    |           |   appsettings.Development.json
+    |           |   appsettings.json
+    |           |   Azure.Core.dll
+    |           |   Azure.Identity.dll
+    |           |   Humanizer.dll
+    |           |   Implementacion.Api.deps.json
+    |           |   Implementacion.Api.dll
+    |           |   Implementacion.Api.exe
+    |           |   Implementacion.Api.pdb
+    |           |   Implementacion.Api.runtimeconfig.json
+    |           |   Implementacion.Api.staticwebassets.endpoints.json
+    |           |   Microsoft.AspNetCore.OpenApi.dll
+    |           |   Microsoft.Bcl.AsyncInterfaces.dll
+    |           |   Microsoft.Build.Locator.dll
+    |           |   Microsoft.CodeAnalysis.CSharp.dll
+    |           |   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+    |           |   Microsoft.CodeAnalysis.dll
+    |           |   Microsoft.CodeAnalysis.Workspaces.dll
+    |           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+    |           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+    |           |   Microsoft.Data.SqlClient.dll
+    |           |   Microsoft.EntityFrameworkCore.Abstractions.dll
+    |           |   Microsoft.EntityFrameworkCore.Design.dll
+    |           |   Microsoft.EntityFrameworkCore.dll
+    |           |   Microsoft.EntityFrameworkCore.Relational.dll
+    |           |   Microsoft.EntityFrameworkCore.SqlServer.dll
+    |           |   Microsoft.Extensions.Caching.Abstractions.dll
+    |           |   Microsoft.Extensions.Caching.Memory.dll
+    |           |   Microsoft.Extensions.Configuration.Abstractions.dll
+    |           |   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+    |           |   Microsoft.Extensions.DependencyInjection.dll
+    |           |   Microsoft.Extensions.DependencyModel.dll
+    |           |   Microsoft.Extensions.Logging.Abstractions.dll
+    |           |   Microsoft.Extensions.Logging.dll
+    |           |   Microsoft.Extensions.Options.dll
+    |           |   Microsoft.Extensions.Primitives.dll
+    |           |   Microsoft.Identity.Client.dll
+    |           |   Microsoft.Identity.Client.Extensions.Msal.dll
+    |           |   Microsoft.IdentityModel.Abstractions.dll
+    |           |   Microsoft.IdentityModel.JsonWebTokens.dll
+    |           |   Microsoft.IdentityModel.Logging.dll
+    |           |   Microsoft.IdentityModel.Protocols.dll
+    |           |   Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+    |           |   Microsoft.IdentityModel.Tokens.dll
+    |           |   Microsoft.OpenApi.dll
+    |           |   Microsoft.SqlServer.Server.dll
+    |           |   Microsoft.Win32.SystemEvents.dll
+    |           |   Mono.TextTemplating.dll
+    |           |   Swashbuckle.AspNetCore.Swagger.dll
+    |           |   Swashbuckle.AspNetCore.SwaggerGen.dll
+    |           |   Swashbuckle.AspNetCore.SwaggerUI.dll
+    |           |   System.ClientModel.dll
+    |           |   System.CodeDom.dll
+    |           |   System.Composition.AttributedModel.dll
+    |           |   System.Composition.Convention.dll
+    |           |   System.Composition.Hosting.dll
+    |           |   System.Composition.Runtime.dll
+    |           |   System.Composition.TypedParts.dll
+    |           |   System.Configuration.ConfigurationManager.dll
+    |           |   System.Drawing.Common.dll
+    |           |   System.Formats.Asn1.dll
+    |           |   System.IdentityModel.Tokens.Jwt.dll
+    |           |   System.Memory.Data.dll
+    |           |   System.Runtime.Caching.dll
+    |           |   System.Security.Cryptography.ProtectedData.dll
+    |           |   System.Security.Permissions.dll
+    |           |   System.Text.Json.dll
+    |           |   System.Windows.Extensions.dll
+    |           |   
+    |           +---cs
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---de
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---es
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---fr
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---it
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---ja
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---ko
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---pl
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---pt-BR
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---ru
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---runtimes
+    |           |   +---unix
+    |           |   |   \---lib
+    |           |   |       \---net6.0
+    |           |   |               Microsoft.Data.SqlClient.dll
+    |           |   |               System.Drawing.Common.dll
+    |           |   |               
+    |           |   +---win
+    |           |   |   \---lib
+    |           |   |       \---net6.0
+    |           |   |               Microsoft.Data.SqlClient.dll
+    |           |   |               Microsoft.Win32.SystemEvents.dll
+    |           |   |               System.Drawing.Common.dll
+    |           |   |               System.Runtime.Caching.dll
+    |           |   |               System.Security.Cryptography.ProtectedData.dll
+    |           |   |               System.Windows.Extensions.dll
+    |           |   |               
+    |           |   +---win-arm
+    |           |   |   \---native
+    |           |   |           Microsoft.Data.SqlClient.SNI.dll
+    |           |   |           
+    |           |   +---win-arm64
+    |           |   |   \---native
+    |           |   |           Microsoft.Data.SqlClient.SNI.dll
+    |           |   |           
+    |           |   +---win-x64
+    |           |   |   \---native
+    |           |   |           Microsoft.Data.SqlClient.SNI.dll
+    |           |   |           
+    |           |   \---win-x86
+    |           |       \---native
+    |           |               Microsoft.Data.SqlClient.SNI.dll
+    |           |               
+    |           +---tr
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           +---zh-Hans
+    |           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+    |           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |           |       Microsoft.CodeAnalysis.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |           |       
+    |           \---zh-Hant
+    |                   Microsoft.CodeAnalysis.CSharp.resources.dll
+    |                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+    |                   Microsoft.CodeAnalysis.resources.dll
+    |                   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+    |                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+    |                   
+    +---Context
+    |       AppDbContext.cs
+    |       
+    +---Contract
+    |       ICategoriaService.cs
+    |       IProductoService.cs
+    |       IProveedorService .cs
+    |       
+    +---Controllers
+    |       CategoriaController.cs
+    |       ProductoController.cs
+    |       ProveedorController.cs
+    |       WeatherForecastController.cs
+    |       
+    +---Flyweight
+    |       FlyweightFactory.cs
+    |       ProductoFactory.cs
+    |       
+    +---Migrations
+    |       20251007181222_AddTableTodoItems.cs
+    |       20251007181222_AddTableTodoItems.Designer.cs
+    |       AppDbContextModelSnapshot.cs
+    |       
+    +---Models
+    |   |   Categoria.cs
+    |   |   Producto.cs
+    |   |   Proveedor.cs
+    |   |   
+    |   \---DTO
+    |           ProveedorDTO.cs
+    |           
+    +---obj
+    |   |   Implementacion.Api.csproj.nuget.dgspec.json
+    |   |   Implementacion.Api.csproj.nuget.g.props
+    |   |   Implementacion.Api.csproj.nuget.g.targets
+    |   |   project.assets.json
+    |   |   project.nuget.cache
+    |   |   
+    |   \---Debug
+    |       \---net9.0
+    |           |   .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+    |           |   ApiEndpoints.json
+    |           |   apphost.exe
+    |           |   Implemen.DAF8BB06.Up2Date
+    |           |   Implementacion.Api.AssemblyInfo.cs
+    |           |   Implementacion.Api.AssemblyInfoInputs.cache
+    |           |   Implementacion.Api.assets.cache
+    |           |   Implementacion.Api.csproj.AssemblyReference.cache
+    |           |   Implementacion.Api.csproj.BuildWithSkipAnalyzers
+    |           |   Implementacion.Api.csproj.CoreCompileInputs.cache
+    |           |   Implementacion.Api.csproj.FileListAbsolute.txt
+    |           |   Implementacion.Api.dll
+    |           |   Implementacion.Api.GeneratedMSBuildEditorConfig.editorconfig
+    |           |   Implementacion.Api.genruntimeconfig.cache
+    |           |   Implementacion.Api.GlobalUsings.g.cs
+    |           |   Implementacion.Api.MvcApplicationPartsAssemblyInfo.cache
+    |           |   Implementacion.Api.MvcApplicationPartsAssemblyInfo.cs
+    |           |   Implementacion.Api.pdb
+    |           |   staticwebassets.build.endpoints.json
+    |           |   staticwebassets.build.json
+    |           |   staticwebassets.references.upToDateCheck.txt
+    |           |   staticwebassets.removed.txt
+    |           |   
+    |           +---EndpointInfo
+    |           |       Implementacion.Api.json
+    |           |       Implementacion.Api.OpenApiFiles.cache
+    |           |       
+    |           +---ref
+    |           |       Implementacion.Api.dll
+    |           |       
+    |           +---refint
+    |           |       Implementacion.Api.dll
+    |           |       
+    |           \---staticwebassets
+    |                   msbuild.build.Implementacion.Api.props
+    |                   msbuild.buildMultiTargeting.Implementacion.Api.props
+    |                   msbuild.buildTransitive.Implementacion.Api.props
+    |                   
+    +---Properties
+    |       launchSettings.json
+    |       
+    +---Services
+    |       CategoriaService.cs
+    |       ProductoService.cs
+    |       ProveedorService.cs
+    |       
+    \---Singleton
+            SingletonConstruct.cs
+            
