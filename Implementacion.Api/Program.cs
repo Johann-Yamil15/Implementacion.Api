@@ -1,5 +1,7 @@
 ﻿using Implementacion.Api.Context;
+using Implementacion.Api.Contract;
 using Implementacion.Api.Flyweight;
+using Implementacion.Api.Services;
 using Implementacion.Api.Singleton;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -8,6 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+// Registro del servicio
+builder.Services.AddScoped<IProductsService, ProductsService>();
 
 // Agregamos Swagger
 builder.Services.AddEndpointsApiExplorer();
@@ -29,7 +33,6 @@ builder.Services.AddSwaggerGen(c =>
 // Configurar EF Core con SQL Server
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
 
 
 
